@@ -22,7 +22,7 @@ def send_request(username, password, url, domain):
         print(e)
 
 if __name__ == "__main__":
-    print("PasswordSpraying v{}\nWith Love c0d3cr4f73r \n-----------------------------------\n\n".format(VERSION))
+    print("PasswordSpraying v{}\nWith Love n3rdyn3xus \n-----------------------------------\n\n".format(VERSION))
     if len(sys.argv) < 5:
         print("Usage: {} [user list] [domain] [url] [password]".format(sys.argv[0]))
         sys.exit(0)
